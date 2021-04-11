@@ -1,11 +1,19 @@
 {
   "name": "drum-kit",
   "version": "1.0.0",
-  "description": "drumkit p\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[Dk\u001b[C\u001b[Dit\u001b[ project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amin-Afshari",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amin-Afshari/Drum-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amin-Afshari/Drum-kit/issues"
+  },
+  "homepage": "https://github.com/Amin-Afshari/Drum-kit"
 }
